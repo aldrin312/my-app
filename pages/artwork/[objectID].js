@@ -4,7 +4,7 @@ import { Col, Row } from 'react-bootstrap';
 
 
 
-export default function object(){
+export default function Object(){
     const Router = useRouter();
 
     const { objectID } = Router.query;
