@@ -1,0 +1,3 @@
+
+Dw3RV2cq4lMxSRCD
+mongodb+srv://aldrinfernandez312:aldrinfernandez312@cluster0.xkhek8s.mongodb.net/userData?retryWrites=true&w=majority&appName=Cluster0
