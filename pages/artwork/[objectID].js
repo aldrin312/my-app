@@ -2,11 +2,12 @@ import ArtworkCardDetail from '@/components/ArtworkCardDetail';
 import { useRouter } from 'next/router';
 import { Col, Row } from 'react-bootstrap';
 
-const router = useRouter();
 
 
 export default function object(){
-    const { objectID } = router.query;
+    const Router = useRouter();
+
+    const { objectID } = Router.query;
     return(<>
         <Row>
             <Col>
